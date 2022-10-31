@@ -1,7 +1,7 @@
 {
     "name": "UNLIMITED FILTER BOT",
     "description": "An unlimited filter bot using Mongo DB",
-    "logo": "https://telegra.ph/file/71aaa621508cd696ab538.jpg",
+    "logo": "https://te.legra.ph/file/58646ee870e299718e168.jpg",
     "keywords": [
         "UNLIMITED",
         "Filter",
@@ -54,7 +54,7 @@
     },
     "buildpacks": [
         {
-            "url": "heroku/python"
+            "url": "heroku/python-3.10.8"
         }
     ],
     "formation": {
